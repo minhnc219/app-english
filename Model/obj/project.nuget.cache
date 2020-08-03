@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iOwAxRU5LS9FEFScXyZpWHMc6MPMLeOvbFZLtH/2C9dSfy2O1mp3nGRHglK0x3AJUU8TziPwzlcO8xDVcWwsw==",
+  "success": true,
+  "projectFilePath": "D:\\App English\\Website English\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vampireking\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.6\\microsoft.entityframeworkcore.abstractions.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

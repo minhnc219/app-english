@@ -1,0 +1,15 @@
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\Model.dll
+D:\App English\Website English\DataAccess\bin\Debug\netcoreapp3.1\Model.pdb
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\App English\Website English\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
